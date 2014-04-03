@@ -46,7 +46,7 @@ find_package(catkin REQUIRED COMPONENTS
    FILES
    Altimeter.msg
    Altitude.msg
-   AltitudeCommand.msg
+   AttitudeCommand.msg
    Compass.msg
    ControllerState.msg
    HeadingCommand.msg
